@@ -118,3 +118,5 @@ The project is built as a lightweight game implementation and focuses on fundame
 * Variables and data handling
 * Collision detection
 * Coordinate-ba
+
+<img width="588" height="606" alt="image" src="https://github.com/user-attachments/assets/d66fdfce-b96b-4e4a-bef3-284728b6e6b9" />
